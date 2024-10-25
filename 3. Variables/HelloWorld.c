@@ -19,7 +19,8 @@ int main() {
     char name[] = "Bro"; // Array of characters
     // And a ton more
 
-    printf("You are %d years old", age);
+    printf("Hello %s\n", name);
+    printf("You are %d years old\n", age);
 
     return 0;
 }
