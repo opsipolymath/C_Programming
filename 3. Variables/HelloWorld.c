@@ -21,6 +21,8 @@ int main() {
 
     printf("Hello %s\n", name);
     printf("You are %d years old\n", age);
+    printf("Your average grade is %c\n", grade);
+    printf("Your GPS is %f\n", gpa);
 
     return 0;
 }
